@@ -15,7 +15,6 @@ labels: 'bug :bug:'
 2.
 3.
 
-
 ### Products
 <!-- List products that are related to this bug -->
 - [ ] web
